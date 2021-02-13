@@ -1,0 +1,11 @@
+*.md
+.adapter.yml
+.git/
+.github/
+.gitignore
+.pre-commit-config.yaml
+LICENSE
+Pipfile*
+docs/
+instance/
+tests/
