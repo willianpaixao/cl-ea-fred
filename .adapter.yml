@@ -2,7 +2,9 @@ name: FRED
 description: A wrapper on the FRED API
 node_identifier: fred
 platforms:
+  - AWS Lambda
   - Docker
+  - GCP Functions
 data_sources:
   - name: FRED
     url: https://fred.stlouisfed.org/

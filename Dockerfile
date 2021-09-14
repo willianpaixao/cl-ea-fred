@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.9
 
 LABEL org.opencontainers.image.authors="Willian Paixao <willian@ufpa.br>"
 LABEL org.opencontainers.image.source="https://github.com/willianpaixao/cl-ea-fred"
